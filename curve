@@ -1,0 +1,18 @@
+carpenter-painter-website/
+│
+├── index.html
+├── login.html
+├── carpenters.html
+├── painters.html
+├── add-worker.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── main.js
+│   └── login.js
+│
+└── backend/
+    ├── server.c
+    └── workers.txt
